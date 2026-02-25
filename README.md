@@ -11,42 +11,28 @@
 - **DKIM:** NONE  
 - **DMARC:** NONE  
 
----
-
-## 🔧 Tools Used
+## Tools Used
 - **MXToolbox** – Email header analysis  
 - **Google Header Analyzer** – SPF, DKIM, and DMARC verification
 
----
-
-## 🔍 Analysis Approach
+## Analysis Approach
 - Extracted email headers from the phishing sample  
 - Analyzed email authentication mechanisms (SPF, DKIM, DMARC)  
 - Identified phishing indicators such as urgency, obfuscation, and domain spoofing  
 - Developed prevention and awareness guidelines for users  
 - Compiled findings into a professional phishing analysis report  
 
----
-
-## ⚠️ Threat Assessment
+## Threat Assessment
 - **Risk Level:** **HIGH RISK**  
 
----
-
-## 📂 Files Included
+## Files Included
 - **Phishing Detection and Awareness Report.pdf** – Complete phishing analysis and awareness report  
 
----
-
-## 📖 Key Takeaway
+## Key Takeaway
 > Phishing emails frequently bypass technical defenses by exploiting human behavior through urgency, impersonation, and deception. Awareness and proper email authentication checks remain critical defenses.
 
----
-
-## 👩🏽‍💻 Author
+## Author
 **Grace Wambui**  
 
----
-
-## 📜 Disclaimer
+## Disclaimer
 This project is for educational and cybersecurity awareness purposes only.
